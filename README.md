@@ -1,2 +1,2 @@
 # people-detection-computer-vision-yolo
-Using YOLO computer vision model, detect people density in the shopping center.
+**Problem Statement:** Using YOLO computer vision model, detect people density in the shopping center. With this we make strategic business decision which drives sales. 
